@@ -1,0 +1,13 @@
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+body {
+  background: rgb(50, 50, 55);
+  color: rgb(105, 167, 191);
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
