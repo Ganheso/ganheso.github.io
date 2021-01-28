@@ -11,3 +11,6 @@ body {
   color: rgb(105, 167, 191);
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
+a {
+  text-decoration: none;
+}
