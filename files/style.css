@@ -7,9 +7,10 @@
   user-select: none;
 }
 body {
-  background: rgb(0, 0, 0);
-  color: rgb(105, 167, 191);
+  background: #212121;
+  color: #48b3e1;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font: Kulim Park;
 }
 a {
   text-decoration: none;
