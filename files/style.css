@@ -11,11 +11,18 @@ body {
 a {
   text-decoration: none;
 }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
 p {
   margin-left: 30px;
 }
 h1 {
   font-size: 34px;
+  text-align: center;
 }
 h2 {
   margin-left: 20px;
